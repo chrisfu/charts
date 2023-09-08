@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  wipeout-rewrite:
+  - apiVersion: v2
+    appVersion: sha-0c4f0614
+    created: "2023-09-08T17:54:23.482400345Z"
+    description: wipEout-Rewrite... for Kubernetes
+    digest: a257b58de91b4c64038b856bd1ba6efa60ec245a26bd0ac6bdd824a440efc527
+    icon: https://github.com/chrisfu/charts/blob/main/charts/wipeout-rewrite/wipeout-rewrite.png
+    name: wipeout-rewrite
+    type: application
+    urls:
+    - https://github.com/chrisfu/charts/releases/download/wipeout-rewrite-0.1.0/wipeout-rewrite-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-09-08T17:54:23.482415845Z"

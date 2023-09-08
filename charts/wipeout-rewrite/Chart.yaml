@@ -1,0 +1,7 @@
+apiVersion: v2
+name: wipeout-rewrite
+description: wipEout-Rewrite... for Kubernetes
+type: application
+version: 0.1.0
+icon: https://github.com/chrisfu/charts/blob/main/charts/wipeout-rewrite/wipeout-rewrite.png
+appVersion: "sha-0c4f0614"

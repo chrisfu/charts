@@ -13,7 +13,7 @@ chrisfu` to see the charts.
 
 To install the <chart-name> chart:
 
-    helm install my-<chart-name> <alias>/<chart-name>
+    helm install my-<chart-name> chrisfu/<chart-name>
 
 To uninstall the chart:
 

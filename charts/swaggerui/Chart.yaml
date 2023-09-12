@@ -1,0 +1,16 @@
+apiVersion: v2
+appVersion: 5.6.2
+description: Swagger is an open-source software framework backed by a large ecosystem
+  of tools that helps developers design, build, document, and consume RESTful Web
+  services.
+home: https://swagger.io
+icon: https://transfer.legal/wp-content/uploads/2016/12/logo-swagger.png
+keywords:
+- swagger
+- ui
+- RESTful
+maintainers:
+- email: chris@chrisfu.co.uk
+  name: chrisfu
+name: swaggerui
+version: 0.3.7

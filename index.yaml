@@ -14,6 +14,27 @@ entries:
     urls:
     - https://github.com/chrisfu/charts/releases/download/quake-kube-0.1.7/quake-kube-0.1.7.tgz
     version: 0.1.7
+  swaggerui:
+  - apiVersion: v2
+    appVersion: 5.6.2
+    created: "2023-09-12T20:38:06.430964164Z"
+    description: Swagger is an open-source software framework backed by a large ecosystem
+      of tools that helps developers design, build, document, and consume RESTful
+      Web services.
+    digest: 1d09ee1d5125a35eda0f5ada05d4d96b2fdd08e004e96d48b0fd7d680a9e403a
+    home: https://swagger.io
+    icon: https://transfer.legal/wp-content/uploads/2016/12/logo-swagger.png
+    keywords:
+    - swagger
+    - ui
+    - RESTful
+    maintainers:
+    - email: chris@chrisfu.co.uk
+      name: chrisfu
+    name: swaggerui
+    urls:
+    - https://github.com/chrisfu/charts/releases/download/swaggerui-0.3.7/swaggerui-0.3.7.tgz
+    version: 0.3.7
   wipeout-rewrite:
   - apiVersion: v2
     appVersion: sha-0c4f0614
@@ -26,4 +47,4 @@ entries:
     urls:
     - https://github.com/chrisfu/charts/releases/download/wipeout-rewrite-0.1.0/wipeout-rewrite-0.1.0.tgz
     version: 0.1.0
-generated: "2023-09-11T14:38:06.565222525Z"
+generated: "2023-09-12T20:38:06.430970764Z"
